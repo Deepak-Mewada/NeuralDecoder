@@ -4,10 +4,20 @@ DL for EEG based BCI notebooks
 All results on BCI-IV 2a
 ## Contents
 - [ATCNet](#ATCNet)
-- [EEGNet](#EEGNet)
-- [](#)
-- [](#)
-
+- [ShallowFBCSPNet](#ShallowFBCSPNet)
+- [Deep4Net](#Deep4Net)
+- [DeepSleepNet](#DeepSleepNet)
+- [EEGConformer](#EEGConformer)
+- [EEGINet](#EEGINet)
+- [EEGInception](EEGInception)
+- [EEGInceptionERP](EEGInceptionMI)
+- [EEGInceptionMI](EEGInceptionMI)
+- [EEGNETv1](EEGNETv1)
+- [EEGNetv4](EEGNetv4)
+- [EEGResNet](EEGResNet)
+- [HybridNet](HybridNet)
+- [TCN](TCN)
+- [TIDNet](TIDNet)
 ## ATCNet
 Resluts :
 
