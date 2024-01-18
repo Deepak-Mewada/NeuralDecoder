@@ -31,7 +31,16 @@ Confusion Metric
 ![image](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/dc0c220d-1340-495a-be30-7aa3a27625be)
 
 --------------------------------------------------------------------------
-## EEGNet
+## Deep4Net
+Results :  
+Accuracy :  
+Run Time :  
+Epochs:  
+lr:  
+Confusin Matrix:  
+
+![image](![image](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/bde409d4-b8e0-4057-85ff-4d7595ab4416)
+)
 
 
 
