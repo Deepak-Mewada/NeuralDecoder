@@ -18,6 +18,9 @@ All results on BCI-IV 2a
 - [HybridNet](HybridNet)
 - [TCN](TCN)
 - [TIDNet](TIDNet)
+
+*Probable tools
+- [min2net](https://min2net.github.io/)
 ## ATCNet
 Resluts :
 
