@@ -30,7 +30,7 @@ epochs;
 lr:   
 Confusion Metric    
 
-![image](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/ff292032-4f63-420c-9ebe-c90af754a350)
+![image](/home/mt0/22CS60R61/MTP/NipsPaper2023-8E26/MTP_2024/Braindecode/output/atcnet/confusion_mat.png)
 ![image](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/dc0c220d-1340-495a-be30-7aa3a27625be)
 
 --------------------------------------------------------------------------
