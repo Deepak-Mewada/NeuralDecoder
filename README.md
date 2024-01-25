@@ -24,14 +24,16 @@ All results on BCI-IV 2a
 ## ATCNet
 Resluts :
 
-Accuracy:  
-run time;  
-epochs;  
-lr:   
+Accuracy:  62.8 percent
+run time;  30413.58130455017 seconds
+epochs;  120
+lr:    0.0625 * 0.01
 Confusion Metric    
 
-![image](/home/mt0/22CS60R61/MTP/NipsPaper2023-8E26/MTP_2024/Braindecode/output/atcnet/confusion_mat.png)
-![image](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/dc0c220d-1340-495a-be30-7aa3a27625be)
+![image](![Screenshot from 2024-01-25 22-39-20](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/a5f0e3df-c802-41e9-95b2-b7cd4789d54d)
+)
+![image](![Screenshot from 2024-01-25 22-41-02](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/2650d6ee-0360-43a3-a046-8102f9e31293)
+)
 
 --------------------------------------------------------------------------
 ## Deep4Net
