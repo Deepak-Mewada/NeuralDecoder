@@ -46,6 +46,10 @@ Confusin Matrix:
 
 ![deep4netcon](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/14bf4839-4393-4f5e-96ce-af193951893b)
 
+Loss Curve:  
+![deep4loss](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/9549d3b0-ad93-4ddc-9305-e4aee5cd6e4d)
+
+
 
 
 
