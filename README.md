@@ -58,7 +58,7 @@ Loss Curve:
 Results :  
 Accuracy :  54 percent  
 Run Time :  7291.049953699112 seconds   
-Epochs:  100
+Epochs:  100  
 lr:  0.0625 * 0.01  
 Confusin Matrix:  
 ![shallowconf](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/ae10b590-3c91-4814-9e7d-a6c1ab55d4e4)
@@ -68,6 +68,17 @@ Loss Curve:
 
 
 
-##
+## EEGInceptionERP
+Results :  
+Accuracy :  42 percent      
+Run Time :  43891.880004644394 seconds    
+Epochs:  100      
+lr:  0.0625 * 0.01      
+Confusin Matrix: 
+![shallowconf](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/43d98e56-45aa-44ef-a58d-917edf6ad909)  
+
+Loss Curve:  
+
+![shallowloss](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/3bb2a2b9-0d67-4bc8-8c6e-b302a51b4386)
 
 
