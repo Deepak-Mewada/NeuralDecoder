@@ -44,8 +44,9 @@ Epochs:
 lr:  
 Confusin Matrix:  
 
-![image](![Deep4Convnet](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/fcf7f20e-870a-427c-9041-bc56c63284a2)
+![image](![deep4netcon](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/6f7d0800-9726-4f88-bd83-04ef640980ec)
 )
+
 
 
 
