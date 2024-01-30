@@ -54,7 +54,19 @@ Loss Curve:
 
 
 
-## transformer
+## ShallowFBCSPNet  
+Results :  
+Accuracy :  54 percent  
+Run Time :  7291.049953699112 seconds 
+Epochs:  100
+lr:  0.0625 * 0.01
+Confusin Matrix:  
+![shallowconf](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/ae10b590-3c91-4814-9e7d-a6c1ab55d4e4)
+
+Loss Curve:  
+![shallowloss](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/5c89a992-179c-42ea-a3e0-4434c16dc9fb)
+
+
 
 ##
 
