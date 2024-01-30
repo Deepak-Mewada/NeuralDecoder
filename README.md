@@ -93,7 +93,18 @@ Confusin Matrix:
 Loss Curve:  
 ![eeginceptionmi_loss](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/b16c14c6-0a4e-49bd-ad53-3cd125549a4c)  
 
-##
+## EEGNetv1  
+Results :  
+Accuracy :  53 percent        
+Run Time :  42215.34282851219 seconds     
+Epochs:  400       
+lr:  0.0625 * 0.01         
+Confusin Matrix: 
+![eegnetv1_conf](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/020dbc16-f6ea-4010-95ac-9ec156171d5b)  
+Loss Curve:  
+![eegnetv1_loss](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/62383287-d5d2-4144-a0d3-f32bd610b9f8)
+
+
 
 
 
