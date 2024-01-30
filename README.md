@@ -38,10 +38,10 @@ Confusion Metric
 --------------------------------------------------------------------------
 ## Deep4Net
 Results :  
-Accuracy :  43 percent  
-Run Time :  15639.577446699142 seconds  
-Epochs:  60
-lr:  0.0625 * 0.01
+Accuracy :  43 percent    
+Run Time :  15639.577446699142 seconds    
+Epochs:  60  
+lr:  0.0625 * 0.01  
 Confusin Matrix:  
 
 ![deep4netcon](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/14bf4839-4393-4f5e-96ce-af193951893b)
@@ -57,7 +57,7 @@ Loss Curve:
 ## ShallowFBCSPNet  
 Results :  
 Accuracy :  54 percent  
-Run Time :  7291.049953699112 seconds 
+Run Time :  7291.049953699112 seconds   
 Epochs:  100
 lr:  0.0625 * 0.01  
 Confusin Matrix:  
