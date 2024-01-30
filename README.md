@@ -105,6 +105,24 @@ Loss Curve:
 ![eegnetv1_loss](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/62383287-d5d2-4144-a0d3-f32bd610b9f8)
 
 
+## EEGNetv4
+Results :  
+Accuracy :  30 percent        
+Run Time :  25603.201107025146 seconds     
+Epochs:  100       
+lr:  0.0625 * 0.01  
+Confusion Matrix:
+![eegnetv4_conf](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/3865d195-a0bf-4c1e-99c0-a844dd593916)  
+Loss Curve:
+![eegnetv4_loss](https://github.com/Deepak-Mewada/NeuralDecoder/assets/127352637/be4f6702-df91-457b-84c3-d5c36a43c0d8)
+
+
+
+
+
+
+
+
 
 
 
